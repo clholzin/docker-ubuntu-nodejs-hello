@@ -1,0 +1,10 @@
+{
+	"name": "docker-ubuntu-nodejs-hello",
+	"private": true,
+	"version": "0.0.1",
+	"description": "Node.js Hello World app on Ubuntu 14.04 using Docker",
+	"author": "Akeda Bagus <admin@gedex.web.id>",
+	"dependencies": {
+		"express": "4.7.2"
+	}
+}
