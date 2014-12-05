@@ -6,5 +6,5 @@ Hello World app powered-by Expressjs for Docker.
 ## Usage
 
 ```
-$ sudo docker run -p 80:3000 -d gedex/ubuntu-nodejs-hello
+$ sudo docker run -p 80:3000 -d clholzin/docker-ubuntu-nodejs-hello
 ```
